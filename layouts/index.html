@@ -37,7 +37,7 @@
 
             <div class="signup-form">
                 <div id="mc-embed">
-                    <form id="listmonk-form" action="https://newsletters-feb-affair-campaign.trycloudflare.com/subscription/form" method="POST" target="listmonk-frame">
+                    <form id="listmonk-form" action="https://subscribe.mare-e-terra.com/subscription/form" method="POST" target="listmonk-frame">
                         <input type="hidden" name="l" value="db4a6ea2-7497-4182-9032-7765db91906d">
                         <div class="input-group">
                             <input type="email" name="email" placeholder="Your email address" required class="email-input">
@@ -45,9 +45,38 @@
                         </div>
                         <p class="form-note">No spam. One email per week. Unsubscribe anytime.</p>
                     </form>
-                    <iframe name="listmonk-frame" style="display:none;"></iframe>
+                    <iframe name="listmonk-frame" id="listmonk-frame" style="display:none;"></iframe>
+                    <div id="form-success" style="display:none; margin-top:1rem; color:#3a5a1c; font-weight:600;">✓ You're subscribed! Welcome to Olive &amp; Vine.</div>
+                    <div id="form-error" style="display:none; margin-top:1rem; color:#a03333; font-weight:600;">Something went wrong. Please try again.</div>
                 </div>
             </div>
+            <script>
+(function() {
+  var form = document.getElementById('listmonk-form');
+  var frame = document.getElementById('listmonk-frame');
+  var success = document.getElementById('form-success');
+  var error = document.getElementById('form-error');
+  form.addEventListener('submit', function() {
+    form.querySelector('button').disabled = true;
+    form.querySelector('button').textContent = 'Subscribing…';
+    frame.onload = function() {
+      try {
+        var body = frame.contentDocument.body;
+        if (body.textContent.indexOf('success') > -1 || body.textContent.indexOf('Subscribed') > -1) {
+          form.style.display = 'none';
+          success.style.display = 'block';
+        } else {
+          form.style.display = 'none';
+          error.style.display = 'block';
+        }
+      } catch(e) {
+        form.style.display = 'none';
+        success.style.display = 'block';
+      }
+    };
+  });
+})();
+</script>
 
             <div class="social-proof">
                 <p>Join the community at <strong>@oliveandvine</strong></p>
