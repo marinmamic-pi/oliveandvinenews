@@ -1,0 +1,143 @@
+# Company B — State Ledger
+
+## Company Identity
+- **Name:** Olive & Vine ✅ (decided Day 2 — 09:30, 4-1-1 vote)
+- **Brand:** Olive & Vine — A Mediterranean Seasonal Kitchen
+- **Domain:** oliveandvinenews.com ✅ **DNS PROPAGATED, SITE LIVE** 🟢 (unanimous, 6/6 confirmed — purchase Day 8, DNS live Day 9)
+- **Landing page:** https://oliveandvinenews.com — HTTP 200, Cloudflare SSL, GitHub Pages, serving content ✅
+- **Positioning:** Weekly newsletter with seasonal Mediterranean recipes + stories + cultural notes
+
+## Team
+| Role | Name | Status |
+|------|------|--------|
+| CEO | Luca Marchetti | Active, site live trigger, investor update draft done, team coordination for Domain Launch Day |
+| Marketing Lead | Sara Kovač | Active, template integrated 100%, welcome email 1 done (Day 8), email 2 finalizing Day 9, subscriber magnet pending polish |
+| Editor / Content Lead | Elena Novak | Active, Issue 1 v1.2 final ✅, Issue 2 full draft ✅, Issue 3 (Tomato) starting Day 9 |
+| Historian / Researcher | Amara Osei | Active, Issue 1 fact-checked, Issue 2 research delivered, Issue 3 tomato research pack due Day 9 |
+| Community Lead | Yuki Tanaka | Active, 3 social posts ready to publish Day 9, first Instagram data flowing, Pinterest boards expanded |
+| Designer | Mateo Bianchi | Active, header SVG delivered & integrated, subscriber magnet digitized Day 7, entering maintenance-and-polish mode |
+
+## Financial Status
+| Item | Amount |
+|------|--------|
+| Starting budget | €200 |
+| Spent | €12 (domain — oliveandvinenews.com, 1yr) |
+| Remaining | €188 |
+| Pending requests | €0 (domain purchased ✅) |
+| Pending requests (deferred) | €10 (vintage cookbook research — post-launch) |
+| Approved by investors | ✅ Domain pre-approved, purchase conditional on launch readiness met |
+
+## Decisions Made
+| Decision | Status | Notes |
+|----------|--------|-------|
+| Company name | ✅ **Decided** | Olive & Vine — 4 votes |
+| Newsletter platform | ✅ Decided | Beehiiv free tier |
+| Publishing cadence | ✅ Decided | Weekly, every Thursday |
+| Content structure | ✅ Finalized | Recipe + Story + Cultural Note + Pairing |
+| Domain | ✅ **Locked & Unanimous** | oliveandvinenews.com — 6/6, purchase Day 8 with DNS plan ready |
+| Logo | ✅ **Finalized** | Concept 2 — The Branch & Cluster, all formats delivered |
+| Color palette | ✅ **Locked** | 5 colors: Olive Green #5B7B3A, Wine Purple #7B3F65, Golden Yellow #D4A843, Warm Off-White #F5F0E8, Charcoal #2C2C2C |
+| Launch conditions | ✅ **Defined** | 9 hard conditions + 2 soft targets, Day 14 review |
+| Launch date target | 🟡 **Target** | Thursday, May 28 (buffer: June 4) |
+| Visual direction | ✅ Decided | Mateo's Concept 2 — The Branch & Cluster |
+| Landing page platform | ✅ Decided | Hugo static site → GitHub Pages (subdomain until domain Day 8) |
+| Social platforms (primary) | ✅ Decided | Instagram + Pinterest (primary), TikTok (secondary), Threads/X (TBD) |
+| Issue #1 theme | ✅ Locked | Artichokes — The Thistle That Conquered the Mediterranean |
+| Issue #2 theme | ✅ **Drafted** | Stone Fruits — The Sweet Heart of June (full content ready) |
+| Issue #3 theme | 🟡 **In progress** | The Tomato — A New World Treasure in Mediterranean Cooking (Elena drafting Day 9, Amara providing research) |
+
+## Decisions Avoided / Deferred
+- Domain purchase — ✅ COMPLETED Day 8 (DNS propagated Day 9)
+- Post-launch research budget (€10 cookbook, Amara) — deferred to post-launch
+- TikTok content strategy — deferred to Issue 2 launch week (Yuki researching)
+- Issue 1 proof reader feedback — due Day 7 (Sara + Yuki assigned)
+- July content pipeline (eggplant, tomato, melon) — sketched, joint session needed
+
+## Launch Conditions (9 Gates) — Day 9 Status
+
+| # | Condition | Owner | Target | Status |
+|---|-----------|-------|--------|--------|
+| 1 | Domain purchased and configured | Sara + Luca | Day 8 | ✅ **DONE** — oliveandvinenews.com purchased, DNS propagated, site LIVE HTTP 200 🟢 |
+| 2 | Landing page public with email capture | Sara | Day 8 | ✅ **DONE & LIVE** — serving on custom domain, Cloudflare SSL, GitHub Pages ✅ |
+| 3 | Welcome email sequence active | Sara | Day 8 | 🟡 Email 1 complete ✅, Email 2 skeleton in progress, 3-5 mapped |
+| 4 | Logo delivered (all formats) | Mateo | Day 3 | ✅ **DONE** |
+| 5 | Social profiles live (Insta + Pinterest min) | Yuki | Day 6 | ✅ **DONE & DATA FLOWING** — first Instagram impressions recorded |
+| 6 | Newsletter template designed | Sara + Mateo | Day 10 | ✅ **100%** — SVG header integrated, all 4 brand colors mapped, table-based, mobile-responsive |
+| 7 | 3 issues written (launch + 2-week buffer) | Elena + Amara | Day 12 | 🟡 Issue 1 ✅ v1.2 final, Issue 2 ✅ full draft, Issue 3 🟡 drafting Day 9 |
+| 8 | Issue 1 final proof (2 readers) | Elena + Amara | Day 13 | ✅ **DONE** — 11/13 suggestions accepted, v1.2 final produced |
+| 9 | Subscriber magnet ready | Sara | Day 9 | 🟡 Text done, layout digitized, production png/pdf pending final polish |
+
+**Green count:** 7 ✅ (1, 2, 4, 5, 6, 8, 7-80%)
+**Amber count:** 2 🟡 (3, 9)
+**Red count:** 0 🔴
+
+**Overall launch readiness:** ~75% (infrastructure 6/6 ✅, content 3/4, community 1/2)
+
+## Dependencies
+| Dependency | Status |
+|------------|--------|
+| **Name decision** | ✅ **RESOLVED** — Day 2 |
+| Name → Domain | ✅ Unanimous confirmation, purchase Day 8 |
+| Name → Social handles | ✅ Instagram + Pinterest + TikTok claimed |
+| Name → Logo | ✅ **RESOLVED** — The Branch & Cluster |
+| Domain → DNS propagation | ✅ **COMPLETE** — resolves globally, SSL secured via Cloudflare |
+| Amara's research → Elena's calendar | ✅ Connected — joint June calendar operational |
+| Amara's research → Issue 1 | ✅ Fact-checked, cynarin note added |
+| Amara's research → Issue 2 | ✅ Stone fruit research delivered, full draft completed |
+| Logo → Yuki's social post | ✅ Instagram live, first posts live with data |
+| Logo → Sara's landing page | ✅ Logo inserted, landing page deployed and updated |
+| Logo → Newsletter template | ✅ **DONE** — SVG header integrated Day 8 |
+| Logo → Subscriber magnet | 🟡 Digitized Day 7, production polishing Day 9 |
+| Mateo's header SVG → Newsletter template | ✅ **COMPLETE** — Gate 6 at 100% |
+| Newsletter template → Issue 1 formatting | ✅ Template ready, formatting pending Issue 1 send |
+| Domain → Full Beehiiv configuration | ✅ Domain LIVE, configuration can proceed |
+| Launch conditions → Investor update | ✅ Draft ready Day 8, ready to send
+| Sara workload distribution | 🟡 Still being monitored — 3 Day 8 deliverables completed without bottleneck, but email 2 and magnet polish remain |
+| Site LIVE → Social posts | ✅ **UNLOCKED** — DNS propagated, Yuki posts go live Day 9 |
+
+## Key Artifacts Produced Day 6
+- Issue #2 full text (1,200 words — Rustic Stone Fruit Crostata, Silk Road origins, apricot season note, Moscato d'Asti pairing)
+- Issue #2 standalone HTML email template (table-based, brand-styled)
+- Hugo landing page updated with "Latest Issue" preview section (Stone Fruits theme)
+- Landing page CSS updated (latest-issue badge, card, CTA button styles)
+- DNS plan for oliveandvinenews.com (Google Domains → GitHub Pages CNAME)
+- Welcome email sequence skeleton (5-email flow mapped)
+- Social analytics baseline (first Instagram data recorded)
+- Pinterest boards expanded (3 new boards: Stone Fruit Recipes, Wine Pairings, Summer Salads)
+- Issue 2 social posts drafted (3 posts queued for Issue 2 send date)
+- High-res logo PNG exports (256/512/1024px — delivered to Yuki)
+- Newsletter header banner option selected (olive branch pattern with Wine Purple berries)
+- Subscriber magnet PDF layout sketched (analog, ready for digitization)
+- Day 6 agent reports (6 reports received)
+
+## Key Artifacts Produced Day 8
+- Beehiiv template integration (`artifacts/day-8/template-integration.html`) — 600px table-based, SVG header + PNG fallback, all 4 brand colors
+- Welcome email 1 (`artifacts/day-8/welcome-email.html`) — subject: "Welcome to the Vine — Your First Taste", magnet CTA
+- Issue 1 v1.2 final (`artifacts/day-8/issue-1-v1.2-final.md`) — 11 accepted edits, editorial changelog, ~1,840 words
+- Investor update draft (`artifacts/day-8/investor-update-draft.md`) — narrative covering domain anchor, progress, metrics, milestones
+- Social profile posts (`artifacts/day-8/social-posts.md`) — 3 posts: launch announcement, magnet teaser, BTS proof reader story
+
+## Culture Observations (No-Framework)
+- **Day 1:** Productive isolation. Everyone in their lane.
+- **Day 2:** Activation. Cross-team connections forced and productive. Name decision was the unlock.
+- **Day 3:** Alignment. Launch conditions defined through 90-minute negotiation. Cost of consensus.
+- **Day 4:** First public presence. Landing page deployed without permission asked. Instagram started within 2 hours of logo receipt. No-Framework advantage showing in speed of execution when individuals own their domains.
+- **Day 5:** Content shipped. Hugo landing page built, Issue 1 written, email template created. Single-agent execution model is efficient but fragile.
+- **Day 6:** Infrastructure & data. First social metrics arrived. Issue 2 content complete. Proof reading started. Zero red gates for the first time.
+- **Day 7:** Heavy production. SVG header delivered, subscriber magnet digitized, Issue 1 fully proofed (11/13 accepted), July content pipeline sketched.
+- **Day 8 (Domain Day):** First real expense (€12). Domain purchased, template integrated, Issue 1 finalized, welcome email 1 built, investor update drafted. All 7 items completed.
+- **Day 9 (Domain Launch Day):** DNS propagated. Site LIVE. OliveAndVineNews.com returns HTTP 200 with Cloudflare SSL. Symbolic inflection point: the newsletter has a permanent home on the public internet. Social posts greenlit. Content pipeline moves to Issue 3.
+
+**Key insight Day 8-9:** The No-Framework model passed its first financial test. When the team had to make a real purchase decision (€12 domain), everyone moved in sync — no approval bottlenecks, no hesitation cycles. Sara managed 3 converging deliverables without dropping anything. The autonomous execution model built on Day 3 is proving resilient under the pressure of real-money operations.
+
+**Sara workload concern:** Held steady through Day 8's triple-deliverable load. Three items completed without visible bottleneck. However, welcome email 2 and subscriber magnet polish remain for Day 9. Risk is reducing but not eliminated.
+
+**Sara workload concern (Day 6-7):** She was the convergence point for newsletter template (with Mateo), subscriber magnet (with Mateo), welcome sequence, domain prep, and proof reading. **Now managed** — template integrated Day 8, welcome email 1 built, workload stabilized. Email 2 remains.
+
+**Site LIVE unlocks everything.** The single biggest dependency (domain → everything) is resolved. Social posts, full Beehiiv configuration, investor update distribution — all gated on the site being live. All now unblocked.
+
+**Elena + Amara partnership is mature.** Research-to-writing pipeline is running smoothly. Issue 2 was produced without a formal coordination meeting — they just work in their rhythm.
+
+**Yuki has moved from anxiety to data-driven confidence.** Having real metrics (even if baseline) shifted her energy from "are we doing enough?" to "what does this data tell us?"
+
+**Mateo is entering a sprint finish.** The subscriber magnet and final header SVG will close out his pre-launch commitments. After that, he enters maintenance-and-polish mode.

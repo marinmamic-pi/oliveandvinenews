@@ -1,4 +1,4 @@
-baseURL = "https://marinmamic-pi.github.io/oliveandvinenews/"
+baseURL = "https://oliveandvinenews.com/"
 languageCode = "en-us"
 title = "Olive & Vine"
 disableKinds = ["taxonomy", "term", "section", "rss", "sitemap"]
